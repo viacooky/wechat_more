@@ -2,6 +2,10 @@
 
 微信 PC 多开工具
 
+## 运行时
+
+.Net Framework 4.5.2
+
 ## 截图
 
 ![](/screenshot/1.png)
