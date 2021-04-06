@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChat_More", "WeChat_More\WeChat_More.csproj", "{709E18F2-DC33-485C-B868-0E2A70D3ACD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709E18F2-DC33-485C-B868-0E2A70D3ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709E18F2-DC33-485C-B868-0E2A70D3ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709E18F2-DC33-485C-B868-0E2A70D3ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709E18F2-DC33-485C-B868-0E2A70D3ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F5B932-82EF-466F-A1F1-7E0E2672B485}
+	EndGlobalSection
+EndGlobal
